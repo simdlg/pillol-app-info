@@ -18,6 +18,15 @@ Attualmente sono disponibili le seguenti funzionalità:
 - Ricevere promemoria
 - Tenere traccia delle dosi prese
 
+## 🔒 Politica sulla riservatezza
+
+**Pillol App** non raccoglie, memorizza né condivide alcun dato personale o sensibile dell’utente.
+Tutti i dati (come nomi delle medicine e orari) sono salvati localmente sul dispositivo e non vengono inviati né condivisi con terze parti.
+
+L'app non utilizza alcun sistema di tracciamento, analytics o pubblicità.
+
+Se hai domande o dubbi sulla privacy, puoi aprire un issue in questa repository.
+
 ## 📬 Contatti
 
 Per qualsiasi domanda o segnalazione puoi anche scrivermi a:  

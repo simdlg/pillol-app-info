@@ -18,6 +18,15 @@ The following features are currently available:
 - Receive reminders
 - Track whether you’ve taken your doses
 
+## 🔒 Privacy Policy
+
+**Pillol App** does not collect, store or share any personal or sensitive user data.
+All data (such as medication names and times) is saved locally on your device and is not sent or shared with third parties.
+
+The app does not use any tracking, analytics or advertising systems.
+
+If you have questions or concerns about privacy, you can open an issue in this repository.
+
 ## 📬 Contacts
 
 For any question or report you can also send me a message at:  
