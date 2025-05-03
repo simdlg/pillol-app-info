@@ -9,7 +9,7 @@ Questa è la repository pubblica per segnalare **bug**, **richiedere funzionalit
 
 ## ℹ️ Descrizione
 
-**Pillol App** è un progetto personale sviluppato per rendere più semplice ricordarsi di prendere le proprie medicine.  
+**Pillol App** è un progetto personale sviluppato per rendere più semplice ricordare di prendere le proprie medicine.  
 
 Attualmente sono disponibili le seguenti funzionalità:
 
@@ -42,7 +42,7 @@ Per qualsiasi domanda o segnalazione puoi anche scrivermi a:
 2. Scegli il template **Feature Request**.
 3. Descrivi la tua idea!
 
-## ✅ Stato dello sviluppo
+## 🛠️ Stato dello sviluppo
 
 L'app è in fase di test. A breve sarà disponibile in versione beta.
 

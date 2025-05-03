@@ -7,7 +7,7 @@ This is the public repository to report **bugs**, **request features** and give 
 > This repository is only for issue tracking.  
 > The app's source code is not public.
 
-## 📱 About
+## ℹ️ About
 
 **Pillol App** is a personal project developed to make it easier for you to remember to take your medicines.  
 
@@ -20,7 +20,7 @@ The following features are currently available:
 
 ## 📬 Contacts
 
-For any question or report you can also send me a message me at:  
+For any question or report you can also send me a message at:  
 - Email: [simdlg@outlook.it](https://mailto:simdlg@outlook.it)  
 - Telegram: [@simdlg]()
 
@@ -42,7 +42,7 @@ For any question or report you can also send me a message me at:
 2. Click on **Feature Request**.
 3. Describe your idea!
 
-## ✅ Stato dello sviluppo
+## 🛠️ Development status
 
 The app is in the testing phase. It will soon be available in beta version.
 
