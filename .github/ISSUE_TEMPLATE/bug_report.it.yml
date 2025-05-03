@@ -1,0 +1,51 @@
+name: Segnalazione bug
+description: Segnala un problema o un comportamento inaspettato dell'app.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione del bug
+      description: Una descrizione chiara e concisa del bug.
+      placeholder: L'app si chiude quando provo ad aggiungere una nuova medicina...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passaggi per riprodurre il problema
+      description: Quali azioni hai eseguito per far comparire il bug?
+      placeholder: |
+        1. Apri l'app
+        2. Tocca su "Aggiungi medicina"
+        3. Inserisci i dati e tocca salva
+        4. L'app va in crash
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Versione dell'app
+      placeholder: es. 0.5.0-beta
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Dispositivo e versione Android
+      placeholder: es. Pixel 6 - Android 14
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log o schermate (se disponibili)
+      description: Se possiedi log o screenshot, incollali qui o allegali sotto.
+      placeholder: Incolla qui i log o descrivi cosa compare a schermo
+    validations:
+      required: false

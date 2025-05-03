@@ -1,0 +1,27 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email
+    url: mailto:simdlg@outlook.it
+  - name: Telegram
+    url: https://t.me/simdlg
+
+issue_templates:
+  - name: 🪲 Bug Report (English)
+    description: Report a bug in the app.
+    language: en
+    file: bug_report.en.yml
+
+  - name: 🪲 Segnalazione Bug (Italiano)
+    description: Segnala un bug nell'app.
+    language: it
+    file: bug_report.it.yml
+
+  - name: ✨ Feature Request (English)
+    description: Suggest a new feature or improvement.
+    language: en
+    file: feature_request.en.yml
+
+  - name: ✨ Richiesta Funzionalità (Italiano)
+    description: Suggerisci una nuova funzionalità o miglioramento.
+    language: it
+    file: feature_request.it.yml

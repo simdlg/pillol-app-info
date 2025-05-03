@@ -1,0 +1,51 @@
+name: Bug report
+description: Report a problem or unexpected behavior in the app.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: The app crashes when I try to add a new medicine...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What steps did you take that led to the bug?
+      placeholder: |
+        1. Open the app
+        2. Tap on "Add medicine"
+        3. Enter the details and tap save
+        4. The app crashes
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      placeholder: e.g., 0.5.0-beta
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: e.g., Pixel 6 - Android 14
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs (if available)
+      description: If you have logs or screenshots, paste them here or attach below.
+      placeholder: Paste logs or describe what appeared
+    validations:
+      required: false
