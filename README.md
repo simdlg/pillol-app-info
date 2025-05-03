@@ -16,12 +16,14 @@ The following features are currently available:
 - Add and manage your medicines
 - Set recurring schedules
 - Receive reminders
-- Track whether you’ve taken your doses
+- Track whether you’ve taken your doses 
 
-[Screenshot 1](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-1.png)
-[Screenshot 2](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-2.png)
-[Screenshot 3](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-3.png)
-[Screenshot 4](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-4.png)
+<div display="flex" gap="50px"> 
+  <img src="https://github.com/simdlg/pillol-app-support/blob/main/imgs/screenshots/en/screenshot-1.png" alt="Screenshot 1" width="200px" />
+  <img src="https://github.com/simdlg/pillol-app-support/blob/main/imgs/screenshots/en/screenshot-2.png" alt="Screenshot 2" width="200px" />
+  <img src="https://github.com/simdlg/pillol-app-support/blob/main/imgs/screenshots/en/screenshot-3.png" alt="Screenshot 3" width="200px" />
+  <img src="https://github.com/simdlg/pillol-app-support/blob/main/imgs/screenshots/en/screenshot-4.png" alt="Screenshot 4" width="200px" />
+</div>
 
 ## 🔒 Privacy Policy
 
