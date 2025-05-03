@@ -18,6 +18,11 @@ The following features are currently available:
 - Receive reminders
 - Track whether you’ve taken your doses
 
+[Screenshot 1](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-1.png)
+[Screenshot 2](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-2.png)
+[Screenshot 3](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-3.png)
+[Screenshot 4](https://github.com/simdlg/pillol-app-support/imgs/screenshots/en/screenshot-4.png)
+
 ## 🔒 Privacy Policy
 
 **Pillol App** does not collect, store or share any personal or sensitive user data.

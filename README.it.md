@@ -18,6 +18,11 @@ Attualmente sono disponibili le seguenti funzionalità:
 - Ricevere promemoria
 - Tenere traccia delle dosi prese
 
+[Screenshot 1](https://github.com/simdlg/pillol-app-support/imgs/screenshots/it/screenshot-1.png)
+[Screenshot 2](https://github.com/simdlg/pillol-app-support/imgs/screenshots/it/screenshot-2.png)
+[Screenshot 3](https://github.com/simdlg/pillol-app-support/imgs/screenshots/it/screenshot-3.png)
+[Screenshot 4](https://github.com/simdlg/pillol-app-support/imgs/screenshots/it/screenshot-4.png)
+
 ## 🔒 Politica sulla riservatezza
 
 **Pillol App** non raccoglie, memorizza né condivide alcun dato personale o sensibile dell’utente.
