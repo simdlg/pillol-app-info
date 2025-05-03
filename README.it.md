@@ -21,8 +21,8 @@ Attualmente sono disponibili le seguenti funzionalità:
 ## 📬 Contatti
 
 Per qualsiasi domanda o segnalazione puoi anche scrivermi a:  
-- Email: [simdlg@outlook.it](https://mailto:simdlg@outlook.it)  
-- Telegram: [@simdlg]()
+- Email: [simdlg@outlook.it](mailto:simdlg@outlook.it)  
+- Telegram: [@simdlg](https://t.me/simdlg)
 
 ## 🪲 Come segnalare un bug
 

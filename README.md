@@ -21,8 +21,8 @@ The following features are currently available:
 ## 📬 Contacts
 
 For any question or report you can also send me a message at:  
-- Email: [simdlg@outlook.it](https://mailto:simdlg@outlook.it)  
-- Telegram: [@simdlg]()
+- Email: [simdlg@outlook.it](mailto:simdlg@outlook.it)  
+- Telegram: [@simdlg](https://t.me/simdlg)
 
 ## 🪲 How to report a bug
 
