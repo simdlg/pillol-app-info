@@ -30,8 +30,8 @@ Se hai domande o dubbi sulla privacy, puoi aprire un issue in questa repository.
 ## 📬 Contatti
 
 Per qualsiasi domanda o segnalazione puoi anche scrivermi a:  
-- Email: [simdlg@outlook.it](mailto:simdlg@outlook.it)  
-- Telegram: [@simdlg](https://t.me/simdlg)
+- Email: [simonedelgrosso@outlook.com](mailto:simonedelgrosso@outlook.com)  
+- Telegram: [@simonedelgrosso](https://t.me/simonedelgrosso)
 
 ## 🪲 Come segnalare un bug
 

@@ -30,8 +30,8 @@ If you have questions or concerns about privacy, you can open an issue in this r
 ## 📬 Contacts
 
 For any question or report you can also send me a message at:  
-- Email: [simdlg@outlook.it](mailto:simdlg@outlook.it)  
-- Telegram: [@simdlg](https://t.me/simdlg)
+- Email: [simonedelgrosso@outlook.com](mailto:simonedelgrosso@outlook.com)  
+- Telegram: [@simonedelgrosso](https://t.me/simonedelgrosso)
 
 ## 🪲 How to report a bug
 
