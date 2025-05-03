@@ -31,7 +31,7 @@ If you have questions or concerns about privacy, you can open an issue in this r
 
 For any question or report you can also send me a message at:  
 - Email: [simonedelgrosso@outlook.com](mailto:simonedelgrosso@outlook.com)  
-- Telegram: [@simonedelgrosso](https://t.me/simonedelgrosso)
+- Telegram: [@simonedelgrosso](https://t.me/simdlg)
 
 ## 🪲 How to report a bug
 
@@ -53,6 +53,6 @@ For any question or report you can also send me a message at:
 
 ## 🛠️ Development status
 
-The app is in the testing phase. It will soon be available in beta version.
+The app is in the closed testing phase. If you would like to participate, contact me.
 
 Thanks for the support!

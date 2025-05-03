@@ -31,7 +31,7 @@ Se hai domande o dubbi sulla privacy, puoi aprire un issue in questa repository.
 
 Per qualsiasi domanda o segnalazione puoi anche scrivermi a:  
 - Email: [simonedelgrosso@outlook.com](mailto:simonedelgrosso@outlook.com)  
-- Telegram: [@simonedelgrosso](https://t.me/simonedelgrosso)
+- Telegram: [@simonedelgrosso](https://t.me/simdlg)
 
 ## 🪲 Come segnalare un bug
 
@@ -53,6 +53,6 @@ Per qualsiasi domanda o segnalazione puoi anche scrivermi a:
 
 ## 🛠️ Stato dello sviluppo
 
-L'app è in fase di test. A breve sarà disponibile in versione beta.
+L'app è in fase di test chiuso. Se ti piacerebbe partecipare ai test, contattami.
 
 Grazie per il supporto!
