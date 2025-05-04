@@ -2,14 +2,18 @@
 
 ## ℹ️ Descrizione
 
-**Pillol App** è un progetto personale sviluppato per rendere più semplice ricordare di prendere le proprie medicine.  
+**Pillol App** è un progetto personale sviluppato per aiutare gli utenti a ricordare di prendere le proprie medicine.
 
-Attualmente sono disponibili le seguenti funzionalità:
+Dopo un'attenta valutazione, ho deciso di non pubblicare o distribuire questa app a causa delle preoccupazioni sulla sua potenziale natura critica per la sicurezza e per evitare qualsiasi rischio di danni. Resterà quindi un progetto personale e non pubblico.
 
-- Aggiungere e gestire le tue medicine
+## ✨ Funzionalità implementate
+
+- Aggiungere e gestire i farmaci
 - Impostare programmi ricorrenti
-- Ricevere promemoria
+- Ricevere notifiche come promemoria
 - Tenere traccia delle dosi prese
+
+## 📱 Schermate
 
 <div display="flex" flex-direction="column">
   <img src="https://github.com/simdlg/pillol-app-support/blob/main/imgs/screenshots/it/screenshot-1.png" alt="Screenshot 1" width="200px" />
