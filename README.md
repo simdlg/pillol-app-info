@@ -1,5 +1,7 @@
 # 💊 Pillol App
 
+> [Click here](README.it.md) for the italian version
+
 ## ℹ️ About
 
 **Pillol App** is a personal project developed to help users remember to take their medicines.  

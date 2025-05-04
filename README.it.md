@@ -1,5 +1,7 @@
 # 💊 Pillol App
 
+> [Clicca qui](README.md) per la versione in inglese
+
 ## ℹ️ Descrizione
 
 **Pillol App** è un progetto personale sviluppato per aiutare gli utenti a ricordare di prendere le proprie medicine.
