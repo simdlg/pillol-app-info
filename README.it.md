@@ -27,7 +27,9 @@ Attualmente sono disponibili le seguenti funzionalità:
 
 ## 🔒 Politica sulla riservatezza
 
-**Pillol App** non raccoglie, memorizza né condivide alcun dato personale o sensibile dell’utente.
+[Clicca qui](https://simdlg.github.io/pillol-app-privacy) per leggere la politica sulla riservatezza.
+
+In breve, **Pillol App** non raccoglie, memorizza né condivide alcun dato personale o sensibile dell’utente.
 Tutti i dati (come nomi delle medicine e orari) sono salvati localmente sul dispositivo e non vengono inviati né condivisi con terze parti.
 
 L'app non utilizza alcun sistema di tracciamento, analytics o pubblicità.
