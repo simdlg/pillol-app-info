@@ -28,7 +28,7 @@ The following features are currently available:
 
 ## 🔒 Privacy Policy
 
-[Clicca here](https://simdlg.github.io/pillol-app-privacy) to read the privacy policy.
+> [Click here](https://simdlg.github.io/pillol-app-privacy) to read the privacy policy.
 
 In short, **Pillol App** does not collect, store or share any personal or sensitive user data.
 All data (such as medication names and times) is saved locally on your device and is not sent or shared with third parties.
