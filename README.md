@@ -15,7 +15,7 @@ After careful consideration, I decided not to publish or distribute this app due
 - Receive notifications as reminders
 - Track which doses were taken  
 
-The app stores all data locally on the user's device using an internal database. The only permission required is for sending notifications.
+The app stores all data locally on the user's device using an internal database. The only permissions required are for sending notifications.
 
 ## 📱 Screenshots
 

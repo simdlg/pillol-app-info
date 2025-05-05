@@ -6,7 +6,7 @@
 
 **Pillol App** è un progetto personale sviluppato per aiutare gli utenti a ricordare di prendere le proprie medicine.
 
-Dopo un'attenta valutazione, ho deciso di non pubblicare o distribuire questa app a causa delle preoccupazioni sulla sua potenziale natura critica per la sicurezza e per evitare qualsiasi rischio di danni. Resterà quindi un progetto personale e non pubblico.
+Dopo un'attenta riflessione, ho deciso di non pubblicare né distribuire questa app a causa delle preoccupazioni sulla sua potenziale natura critica per la salute e per evitare qualsiasi rischio di danni. Resterà quindi un progetto personale e non pubblico.
 
 ## ✨ Funzionalità implementate
 
@@ -14,6 +14,8 @@ Dopo un'attenta valutazione, ho deciso di non pubblicare o distribuire questa ap
 - Impostare programmi ricorrenti
 - Ricevere notifiche come promemoria
 - Tenere traccia delle dosi prese
+
+L'app salva tutti i dati localmente sul dispositivo dell'utente utilizzando un databse interno. Gli unici permessi richiesti sono quelli per l'invio delle notifiche.
 
 ## 📱 Schermate
 
